@@ -4,11 +4,11 @@
 
 ## Important Notice
 
-**Threshold is designed as a personal health tracking and journaling tool. It is NOT a medical device and does NOT provide medical advice, diagnosis, or treatment.**
+**Tether is designed as a personal health tracking and journaling tool. It is NOT a medical device and does NOT provide medical advice, diagnosis, or treatment.**
 
 ## Not Medical Advice
 
-The information provided through Threshold, including but not limited to:
+The information provided through Tether, including but not limited to:
 
 - Symptom tracking insights
 - Pattern detection suggestions
@@ -33,7 +33,7 @@ This information should not be used as a substitute for professional medical adv
 
 ## No Doctor-Patient Relationship
 
-Use of Threshold does not create a doctor-patient relationship between you and PLACEHOLDER or any healthcare provider. The App is not staffed by medical professionals and cannot provide medical consultations.
+Use of Tether does not create a doctor-patient relationship between you and Tether or any healthcare provider. The App is not staffed by medical professionals and cannot provide medical consultations.
 
 ## AI Limitations
 
@@ -49,14 +49,14 @@ The Cortex AI assistant:
 
 **IF YOU ARE EXPERIENCING A MEDICAL EMERGENCY, CALL YOUR LOCAL EMERGENCY SERVICES (911 IN THE US) IMMEDIATELY.**
 
-Do not use Threshold or any app to address emergency medical situations.
+Do not use Tether or any app to address emergency medical situations.
 
 ## Individual Responsibility
 
 You acknowledge and agree that:
 
 - You are solely responsible for your health decisions
-- You will not hold PLACEHOLDER liable for any health outcomes
+- You will not hold Tether or Zach Lyons liable for any health outcomes
 - The information in this App may not apply to your specific situation
 - Health conditions require individualized professional assessment
 - Self-diagnosis and self-treatment carry inherent risks
@@ -100,4 +100,4 @@ By using Threshold, you acknowledge that you have read, understood, and agree to
 
 **Your health matters. Please use Threshold as a tool to support—not replace—proper medical care.**
 
-For questions about this disclaimer, contact: PLACEHOLDER@EMAIL.COM
+For questions about this disclaimer, contact: zach.lyons24@gmail.com
